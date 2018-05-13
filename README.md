@@ -1,2 +1,7 @@
 # docker-jenkins
-Docker-Compose Jenkins
+
+# Init
+- docker-compose up
+
+## Repo
+- https://github.com/jenkinsci/docker
